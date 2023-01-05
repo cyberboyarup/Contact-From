@@ -142,7 +142,8 @@ This is a simple contact form that allows website visitors to send messages and 
 ```
 
 5. Use the Google Sheets API or a third-party service like JotForm or Wufoo to send the submitted form data to your Google Sheets spreadsheet.
-#Customization
+
+# Customization
 You can customize the form by adding or removing fields, changing the layout and styling, and adjusting the form behavior. For example, you can use JavaScript to validate the form data before it is submitted or to show a message after the form is submitted.
 
 # Contact Form Example
