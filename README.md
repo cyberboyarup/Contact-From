@@ -16,3 +16,15 @@ This is a simple contact form that allows website visitors to send messages and 
   <textarea id="message" name="message"></textarea><br><br>
   <input type="submit" value="Submit">
 </form> 
+
+
+5. Use the Google Sheets API or a third-party service like JotForm or Wufoo to send the submitted form data to your Google Sheets spreadsheet.
+#Customization
+You can customize the form by adding or removing fields, changing the layout and styling, and adjusting the form behavior. For example, you can use JavaScript to validate the form data before it is submitted or to show a message after the form is submitted.
+
+# Contact Form Example
+Here is an example of how the contact form might look: [Visit Now](https://contact-from.vercel.app/)
+
+
+# Support
+If you have any questions or need help with the contact form, please don't hesitate to ask.
